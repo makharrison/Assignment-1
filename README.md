@@ -1,3 +1,5 @@
-# Assignment-1
+# Assignment 1
 
 aulia
+
+Makenna Harrison
